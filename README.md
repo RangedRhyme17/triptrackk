@@ -17,7 +17,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno de desarr
 2. Instalar las dependencias:
 - npm install
 
-#Uso
+## Uso
 Utiliza el siguiente comando para generar el QR por medio de Expo Go:
 - expo start
   
